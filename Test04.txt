@@ -1,1 +1,6 @@
 创建04
+
+
+public class User(){
+
+}
