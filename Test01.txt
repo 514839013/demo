@@ -1,12 +1,8 @@
 hello git~
 修改了Test01
 
-<<<<<<< HEAD
 修改了Test01
 
 测试2
 
 测试3
-=======
-修改了Test01
->>>>>>> parent of f50427f (测试2)
